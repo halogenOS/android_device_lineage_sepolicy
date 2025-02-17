@@ -9,7 +9,8 @@ system_internal_prop(legal_url_prop)
 system_internal_prop(custom_version_prop)
 
 # PIHooks
-system_public_prop(pih_disable_prop)
+system_public_prop(pih_features_prop)
+system_public_prop(pih_build_prop)
 
 # Sussybox debug
 system_public_prop(sussybox_fail_prop)
