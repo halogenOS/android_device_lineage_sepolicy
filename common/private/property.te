@@ -14,5 +14,8 @@ system_public_prop(pih_disable_prop)
 # Sussybox debug
 system_public_prop(sussybox_fail_prop)
 
+# Sussybox OS version
+system_public_prop(sussybox_osversion_prop)
+
 # Recovery update
 system_internal_prop(recovery_update_prop)

@@ -6,3 +6,6 @@ set_prop(shell, pih_disable_prop)
 # Allow shell to set sussybox prop
 set_prop(shell, sussybox_fail_prop)
 
+# Allow shell to set sussybox OS version
+set_prop(shell, sussybox_osversion_prop)
+
