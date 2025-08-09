@@ -1,2 +1,3 @@
 get_prop(appdomain, pih_disable_prop)
+get_prop(appdomain, sussybox_fail_prop)
 get_prop(appdomain, vendor_persist_camera_prop)
