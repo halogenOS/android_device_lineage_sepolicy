@@ -7,6 +7,12 @@ get_prop(system_app, custom_version_prop)
 # Allow Settings to read ro.vendor.build.security_patch
 get_prop(system_app, vendor_security_patch_level_prop)
 
+# Allow Settings to set sussybox props
+get_prop(system_app, sussybox_fail_prop)
+set_prop(system_app, sussybox_fail_prop)
+get_prop(system_app, sussybox_osversion_prop)
+set_prop(system_app, sussybox_osversion_prop)
+
 # Allow access to the HALs
 hal_client_domain(system_app, hal_lineage_livedisplay)
 hal_client_domain(system_app, hal_lineage_touch)
