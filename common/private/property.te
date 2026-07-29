@@ -6,7 +6,7 @@ product_internal_prop(odm_cast_prop)
 system_internal_prop(legal_url_prop)
 
 # Custom version
-system_internal_prop(custom_version_prop)
+system_internal_prop(platform_build_prop)
 
 # Recovery update
 system_internal_prop(recovery_update_prop)

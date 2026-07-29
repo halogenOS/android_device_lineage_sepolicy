@@ -1,1 +1,1 @@
-get_prop(shell, custom_version_prop)
+get_prop(shell, platform_build_prop)

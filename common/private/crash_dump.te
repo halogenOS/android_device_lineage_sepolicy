@@ -1,1 +1,1 @@
-get_prop(crash_dump, custom_version_prop)
+get_prop(crash_dump, platform_build_prop)
